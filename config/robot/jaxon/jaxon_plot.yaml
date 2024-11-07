@@ -1,6 +1,20 @@
 extend:
   ../../common_plot.yaml
 
+ast_tau:
+  data:
+   - { log: ast_tau, column: [0-33] }
+
+ast_dq:
+  func: plot_rad2deg
+  data:
+   - { log: ast_dq, column: [0-33] }
+   
+ast_q:
+  func: plot_rad2deg
+  data:
+   - { log: ast_q, column: [0-33] }
+
 sh_qOut:
   func: plot_rad2deg
   data:

@@ -4,12 +4,18 @@ extend:
 main:
   rleg q:
     legends:
-      - { key: st_q, id: [0],label: st_hip-y  }
-      - { key: st_q, id: [1],label: st_hip-r  }
-      - { key: st_q, id: [2],label: st_hip-p  }
-      - { key: st_q, id: [3],label: st_knee-p }
-      - { key: st_q, id: [4],label: st_ankle-p}
-      - { key: st_q, id: [5],label: st_ankle-r}
+      - { key: ast_q, id: [0],label: ast_hip-y  }
+      - { key: ast_q, id: [1],label: ast_hip-r  }
+      - { key: ast_q, id: [2],label: ast_hip-p  }
+      - { key: ast_q, id: [3],label: ast_knee-p }
+      - { key: ast_q, id: [4],label: ast_ankle-p}
+      - { key: ast_q, id: [5],label: ast_ankle-r}
+      # - { key: st_q, id: [0],label: st_hip-y  }
+      # - { key: st_q, id: [1],label: st_hip-r  }
+      # - { key: st_q, id: [2],label: st_hip-p  }
+      # - { key: st_q, id: [3],label: st_knee-p }
+      # - { key: st_q, id: [4],label: st_ankle-p}
+      # - { key: st_q, id: [5],label: st_ankle-r}
       # - { key: abc_q, id: [0],label: abc_hip-y  }
       # - { key: abc_q, id: [1],label: abc_hip-r  }
       # - { key: abc_q, id: [2],label: abc_hip-p  }
@@ -45,12 +51,18 @@ main:
 
   lleg q:
     legends:
-      - { key: st_q, id: [6],  label: st_hip-y  }
-      - { key: st_q, id: [7],  label: st_hip-r  }
-      - { key: st_q, id: [8],  label: st_hip-p  }
-      - { key: st_q, id: [9],  label: st_knee-p }
-      - { key: st_q, id: [10], label: st_ankle-p}
-      - { key: st_q, id: [11], label: st_ankle-r}
+      - { key: ast_q, id: [6],  label: ast_hip-y  }
+      - { key: ast_q, id: [7],  label: ast_hip-r  }
+      - { key: ast_q, id: [8],  label: ast_hip-p  }
+      - { key: ast_q, id: [9],  label: ast_knee-p }
+      - { key: ast_q, id: [10], label: ast_ankle-p}
+      - { key: ast_q, id: [11], label: ast_ankle-r}
+      # - { key: st_q, id: [6],  label: st_hip-y  }
+      # - { key: st_q, id: [7],  label: st_hip-r  }
+      # - { key: st_q, id: [8],  label: st_hip-p  }
+      # - { key: st_q, id: [9],  label: st_knee-p }
+      # - { key: st_q, id: [10], label: st_ankle-p}
+      # - { key: st_q, id: [11], label: st_ankle-r}
       # - { key: abc_q, id: [6],  label: abc_hip-y  }
       # - { key: abc_q, id: [7],  label: abc_hip-r  }
       # - { key: abc_q, id: [8],  label: abc_hip-p  }

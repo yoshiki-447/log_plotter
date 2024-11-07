@@ -1,14 +1,14 @@
 main:
   force (arm):
     legends:
-      - { key: sh_rhsensorOut, id: [0-2] }
-      - { key: sh_lhsensorOut, id: [0-2] }
-      - { key: st_ref_rhsensor, id: [0-2] }
-      - { key: st_ref_lhsensor, id: [0-2] }
-      - { key: abc_ref_rhsensor, id: [0-2] }
-      - { key: abc_ref_lhsensor, id: [0-2] }
-      - { key: abst_mod_rhsensor, id: [0-2] }
-      - { key: abst_mod_lhsensor, id: [0-2] }
+      # - { key: sh_rhsensorOut, id: [0-2] }
+      # - { key: sh_lhsensorOut, id: [0-2] }
+      # - { key: st_ref_rhsensor, id: [0-2] }
+      # - { key: st_ref_lhsensor, id: [0-2] }
+      # - { key: abc_ref_rhsensor, id: [0-2] }
+      # - { key: abc_ref_lhsensor, id: [0-2] }
+      # - { key: abst_mod_rhsensor, id: [0-2] }
+      # - { key: abst_mod_lhsensor, id: [0-2] }
       - { key: rmfo_off_rhsensor, id: [0-2] }
       - { key: rmfo_off_lhsensor, id: [0-2] }
     bottom_label:
@@ -30,14 +30,14 @@ main:
 
   moment (arm):
     legends:
-      - { key: sh_rhsensorOut, id: [3-5] }
-      - { key: sh_lhsensorOut, id: [3-5] }
-      - { key: st_ref_rhsensor, id: [3-5] }
-      - { key: st_ref_lhsensor, id: [3-5] }
-      - { key: abc_ref_rhsensor, id: [3-5] }
-      - { key: abc_ref_lhsensor, id: [3-5] }
-      - { key: abst_mod_rhsensor, id: [3-5] }
-      - { key: abst_mod_lhsensor, id: [3-5] }
+      # - { key: sh_rhsensorOut, id: [3-5] }
+      # - { key: sh_lhsensorOut, id: [3-5] }
+      # - { key: st_ref_rhsensor, id: [3-5] }
+      # - { key: st_ref_lhsensor, id: [3-5] }
+      # - { key: abc_ref_rhsensor, id: [3-5] }
+      # - { key: abc_ref_lhsensor, id: [3-5] }
+      # - { key: abst_mod_rhsensor, id: [3-5] }
+      # - { key: abst_mod_lhsensor, id: [3-5] }
       - { key: rmfo_off_rhsensor, id: [3-5] }
       - { key: rmfo_off_lhsensor, id: [3-5] }
     bottom_label:

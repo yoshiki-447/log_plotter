@@ -4,11 +4,16 @@ extend:
 main:
   torso q:
     legends:
-      - { key: st_q, id: [12],label: st_chest-r  }
-      - { key: st_q, id: [13],label: st_chest-p  }
-      - { key: st_q, id: [14],label: st_chest-y  }
-      - { key: st_q, id: [15],label: st_neck-y }
-      - { key: st_q, id: [16],label: st_neck-p }
+      - { key: ast_q, id: [12],label: ast_chest-r  }
+      - { key: ast_q, id: [13],label: ast_chest-p  }
+      - { key: ast_q, id: [14],label: ast_chest-y  }
+      - { key: ast_q, id: [15],label: ast_neck-y }
+      - { key: ast_q, id: [16],label: ast_neck-p }
+      # - { key: st_q, id: [12],label: st_chest-r  }
+      # - { key: st_q, id: [13],label: st_chest-p  }
+      # - { key: st_q, id: [14],label: st_chest-y  }
+      # - { key: st_q, id: [15],label: st_neck-y }
+      # - { key: st_q, id: [16],label: st_neck-p }
       # - { key: abc_q, id: [12],label: abc_chest-r  }
       # - { key: abc_q, id: [13],label: abc_chest-p  }
       # - { key: abc_q, id: [14],label: abc_chest-y  }

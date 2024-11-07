@@ -46,21 +46,26 @@ main:
 
   torso tau:
     legends:
-      - { key: st_tau, id: [12], label: st_chest-r}
-      - { key: st_tau, id: [13], label: st_chest-p}
-      - { key: st_tau, id: [14], label: st_chest-y}
-      - { key: st_tau, id: [15], label: st_neck-y}
-      - { key: st_tau, id: [16], label: st_neck-p}
-      - { key: abc_tau, id: [12], label: abc_chest-r}
-      - { key: abc_tau, id: [13], label: abc_chest-p}
-      - { key: abc_tau, id: [14], label: abc_chest-y}
-      - { key: abc_tau, id: [15], label: abc_neck-y}
-      - { key: abc_tau, id: [16], label: abc_neck-p}
-      - { key: abst_tau, id: [12], label: abst_chest-r}
-      - { key: abst_tau, id: [13], label: abst_chest-p}
-      - { key: abst_tau, id: [14], label: abst_chest-y}
-      - { key: abst_tau, id: [15], label: abst_neck-y}
-      - { key: abst_tau, id: [16], label: abst_neck-p}
+      - { key: ast_tau, id: [12], label: ast_chest-r}
+      - { key: ast_tau, id: [13], label: ast_chest-p}
+      - { key: ast_tau, id: [14], label: ast_chest-y}
+      - { key: ast_tau, id: [15], label: ast_neck-y}
+      - { key: ast_tau, id: [16], label: ast_neck-p}
+      # - { key: st_tau, id: [12], label: st_chest-r}
+      # - { key: st_tau, id: [13], label: st_chest-p}
+      # - { key: st_tau, id: [14], label: st_chest-y}
+      # - { key: st_tau, id: [15], label: st_neck-y}
+      # - { key: st_tau, id: [16], label: st_neck-p}
+      # - { key: abc_tau, id: [12], label: abc_chest-r}
+      # - { key: abc_tau, id: [13], label: abc_chest-p}
+      # - { key: abc_tau, id: [14], label: abc_chest-y}
+      # - { key: abc_tau, id: [15], label: abc_neck-y}
+      # - { key: abc_tau, id: [16], label: abc_neck-p}
+      # - { key: abst_tau, id: [12], label: abst_chest-r}
+      # - { key: abst_tau, id: [13], label: abst_chest-p}
+      # - { key: abst_tau, id: [14], label: abst_chest-y}
+      # - { key: abst_tau, id: [15], label: abst_neck-y}
+      # - { key: abst_tau, id: [16], label: abst_neck-p}
       - { key: torque, id: [12], label: rh_chest-r}
       - { key: torque, id: [13], label: rh_chest-p}
       - { key: torque, id: [14], label: rh_chest-y}
