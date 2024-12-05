@@ -3,6 +3,8 @@ main:
     legends:
       - { key: sh_rhsensorOut, id: [0-2] }
       - { key: sh_lhsensorOut, id: [0-2] }
+      - { key: ast_worldrhsensor, id: [0-2] }
+      - { key: ast_worldlhsensor, id: [0-2] }
       # - { key: st_ref_rhsensor, id: [0-2] }
       # - { key: st_ref_lhsensor, id: [0-2] }
       # - { key: abc_ref_rhsensor, id: [0-2] }
@@ -32,6 +34,8 @@ main:
     legends:
       - { key: sh_rhsensorOut, id: [3-5] }
       - { key: sh_lhsensorOut, id: [3-5] }
+      - { key: ast_worldrhsensor, id: [3-5] }
+      - { key: ast_worldlhsensor, id: [3-5] }
       # - { key: st_ref_rhsensor, id: [3-5] }
       # - { key: st_ref_lhsensor, id: [3-5] }
       # - { key: abc_ref_rhsensor, id: [3-5] }
