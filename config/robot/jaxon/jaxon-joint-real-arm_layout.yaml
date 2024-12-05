@@ -21,6 +21,15 @@ main:
       - { key: ast_q, id: [23],label: ast_wrist-r }
       - { key: ast_q, id: [24],label: ast_wrist-p }
 
+      - { key: sh_qOut, id: [17],label: sh_collar-y }
+      - { key: sh_qOut, id: [18],label: sh_shoulder-p }
+      - { key: sh_qOut, id: [19],label: sh_shoulder-r }
+      - { key: sh_qOut, id: [20],label: sh_shoulder-y }
+      - { key: sh_qOut, id: [21],label: sh_elbow-p }
+      - { key: sh_qOut, id: [22],label: sh_wrist-y }
+      - { key: sh_qOut, id: [23],label: sh_wrist-r }
+      - { key: sh_qOut, id: [24],label: sh_wrist-p }
+
       # - { key: abc_q, id: [17],label: abc_collar-y }
       # - { key: abc_q, id: [18],label: abc_shoulder-p }
       # - { key: abc_q, id: [19],label: abc_shoulder-r }
@@ -74,6 +83,15 @@ main:
       - { key: ast_q, id: [30], label: ast_wrist-y }
       - { key: ast_q, id: [31], label: ast_wrist-r }
       - { key: ast_q, id: [32], label: ast_wrist-p }
+
+      - { key: sh_qOut, id: [25],  label: sh_collar-y }
+      - { key: sh_qOut, id: [26],  label: sh_shoulder-p }
+      - { key: sh_qOut, id: [27],  label: sh_shoulder-r }
+      - { key: sh_qOut, id: [28],  label: sh_shoulder-y }
+      - { key: sh_qOut, id: [29], label: sh_elbow-p }
+      - { key: sh_qOut, id: [30], label: sh_wrist-y }
+      - { key: sh_qOut, id: [31], label: sh_wrist-r }
+      - { key: sh_qOut, id: [32], label: sh_wrist-p }
       # - { key: abc_q, id: [25],  label: abc_collar-y }
       # - { key: abc_q, id: [26],  label: abc_shoulder-p }
       # - { key: abc_q, id: [27],  label: abc_shoulder-r }
